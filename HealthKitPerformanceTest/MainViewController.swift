@@ -10,7 +10,7 @@ import UIKit
 import SwiftSpinner
 import HealthKit
 
-let kTotalDays = 365
+let kTotalDays = 180
 
 class MainViewController: UITableViewController {
     enum Section: Int {
